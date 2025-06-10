@@ -23,7 +23,7 @@ export const TodoList: React.FC = () => {
     name: "updateTodoList",
 
     // Description of what the action does
-    description: "Update the users todo list",
+    description: "Update the user's todo list",
 
     // Define the parameters that the action accepts
     parameters: [
